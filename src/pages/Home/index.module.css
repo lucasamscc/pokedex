@@ -1,0 +1,54 @@
+
+.list {
+    list-style-type: none;
+    text-align: center;
+    color: black;
+}
+.pokebolaLista{
+    background: url('') no-repeat left top;
+    height: 34px;
+    padding-top: 7px;
+    padding-left: 44px;
+}
+
+.btnVisualizar {
+  justify-content:space-between;
+  display: inline-block;
+  width: 120px; /* Largura fixa em pixels */
+  padding: 8px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: rgb(255, 224, 49);
+  border: 2px solid rgb(255, 224, 49);
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  margin: 2px;
+}
+
+.btnVisualizar:hover {
+  background-color: rgba(76, 76, 220, 0.903);
+  border-color: white;
+  color: white;
+}
+
+  .pagination{
+    text-align: center;
+  }
+  .paginationBtn{
+    background-color: rgb(255, 224, 49);
+    border: 2px solid rgb(255, 224, 49);
+    margin: 2px;
+    font-weight: bold;
+    transition: all 0.2s ease;
+    border-radius: 5px;
+    border: 2px solid rgb(255, 224, 49);
+    color: rgb(63, 63, 197)
+  }
+  .paginationBtn:hover{
+    background-color: rgba(76, 76, 220, 0.903);
+    border-color: white;
+    color: white;
+    cursor: pointer;
+  }

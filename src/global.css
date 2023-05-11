@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Joystix;  
+  src: url("../src/fonts/joystix.monospace-regular.otf") format("opentype");
+  }
+
+body {
+  margin: 0;
+  background-color: rgba(76, 76, 220, 0.903);
+  font-family: Joystix;
+  
+     
+}
+
+code {
+  font-family: Joystix, monospace;
+}

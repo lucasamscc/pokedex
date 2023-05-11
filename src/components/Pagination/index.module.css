@@ -1,0 +1,19 @@
+.pagination{
+  text-align: center;
+}
+.paginationBtn{
+  background-color: rgb(255, 224, 49);
+  border: 2px solid rgb(255, 224, 49);
+  margin: 2px;
+  font-weight: bold;
+  transition: all 0.2s ease;
+  border-radius: 5px;
+  border: 2px solid rgb(255, 224, 49);
+  color: rgb(63, 63, 197)
+}
+.paginationBtn:hover{
+  background-color: rgba(76, 76, 220, 0.903);
+  border-color: white;
+  color: white;
+  cursor: pointer;
+}
