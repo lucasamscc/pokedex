@@ -4,6 +4,7 @@ import styles from './index.module.css';
 import { Link } from "react-router-dom";
 import Logo from "../../components/Logo";
 import Pagination from "../../components/Pagination";
+import Footer from "../../components/Footer";
 
 export default function Home(props) {
 

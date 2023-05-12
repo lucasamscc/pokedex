@@ -17,3 +17,9 @@
   color: white;
   cursor: pointer;
 }
+
+.active {
+  background-color: rgba(76, 76, 220, 0.903);
+  border-color: white;
+  color: white;
+}

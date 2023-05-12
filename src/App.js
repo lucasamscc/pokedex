@@ -14,7 +14,6 @@ function App() {
           <Route exact path="" element={<Home />} />
           <Route path='/view/:name' element={<View />} />
         </Routes>
-        <Footer/>
       </Router>
     </div>
   );
